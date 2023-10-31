@@ -1,11 +1,12 @@
 ---
 dg-publish: true
-date: 2023-08-15
+date: 2023-10-31
 ---
 
-> **Update 2023-08-15**
-> Final revisions under way. Then layout and art. Aiming for a release in late Autumn
+> **Update 2023-10-31**
+> Romanian Mythos is now live, in PDF and physical formats: https://www.drivethrurpg.com/product/454061/Romanian-Mythos--Sourcebook-of-Horrors-for-Lovecraftian-RPGs
 
+---
 
 > Lovecraftian horrors inspired by Romanian history and culture
 

@@ -1,3 +1,7 @@
+---
+date: 2023-10-16
+---
+
 # Scene 2
 
 It is now midday. After the disturbing fight with the bear, [[Forbidden Lands Episode 1#Macce|Macce]] and [[Forbidden Lands Episode 1#Phas|Phas]] take a quick break.
