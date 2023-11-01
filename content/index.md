@@ -11,10 +11,6 @@ This is [[#About me|my]] blog, on RPGs, writing, and other creative topics. You 
 
 ‣ *Subscribe to the feed [here](index.xml)*
 
-# Recent activity
-
-
-
 # Blog posts
 
 - [[Romanian Mythos]]
@@ -27,7 +23,7 @@ This is [[#About me|my]] blog, on RPGs, writing, and other creative topics. You 
 
 # Forbidden Lands
 
-Using Foundry and Mythic GM 2E
+Some solo play sessions (using Foundry and Mythic GM 2E):
 
 - [[Forbidden Lands Episode 1]]
 - [[Forbidden Lands Episode 2]]
@@ -59,3 +55,5 @@ I am Christopher Dimitrios. I am originally from Eastern Europe but now live in 
 
 > [!info]- Contact
 > Contact me via email at chaos badger pub at gmail dot com (no spaces, replace “at”, replace “dot”)
+
+*Web page icon created by <a href="https://www.flaticon.com/free-icons/dice" title="dice icons">vectorsmarket15 - Flaticon</a>*

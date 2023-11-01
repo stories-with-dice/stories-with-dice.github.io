@@ -7,8 +7,9 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      "My DriveThruRPG": "https://www.drivethrurpg.com/browse.php?author=Christopher+Dimitrios&affiliate_id=1026766",
+      "My Itch.io": "https://chaosbadger.itch.io/",
+      "My GitHub": "https://github.com/stories-with-dice",
     },
   }),
 }
