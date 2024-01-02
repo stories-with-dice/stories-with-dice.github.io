@@ -6,6 +6,8 @@ Step 1 is to create characters. I am using the Cthulhu Eternal system. I roll fo
 
 ## Daniel Osmond
 
+![[Mother's Tendrils - Character Creation-1.png]]
+
 > Background: (Decrease Control)
 > Event: (PC Positive: Ruin Normal)
 
@@ -30,6 +32,8 @@ Daniel volunteers at a local hospital as a nurse and started a business teaching
 PDF here: <a href="https://filedn.eu/lio1CHFCU3bfQweDG8RxQxY/Daniel.pdf">Daniel.pdf</a>
 
 # Izabella Stewart
+
+![[Mother's Tendrils - Character Creation.png]]
 
 This time I'm going to use the [Mythic Magazine vol 8](https://preview.drivethrurpg.com/en/product/366068/mythic-magazine-volume-8) backstory generator system, rather than randomly roll. Hopefully this gives more cohesion and restricts the scope of my question. 
 
