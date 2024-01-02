@@ -13,6 +13,7 @@ This is [[#About me|my]] blog, on RPGs, writing, and other creative topics. You 
 
 # Blog posts
 
+- [[January Character Challenge 01 - Daniel Osmond]]
 - [[Romanian Mythos]]
 - [[Mansion23]]
 - [[Obsidian Random Tables - Worlds without Number]]
