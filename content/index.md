@@ -23,24 +23,15 @@ This is [[#About me|my]] blog, on RPGs, writing, and other creative topics. You 
 - [[My hack OSR System]]
 - [[OSR Usage Die]]
 
-# Forbidden Lands
+# Random Solo Sessions
 
-Some solo play sessions (using Foundry and Mythic GM 2E):
+- [[Silent Legions - Session 0|Silent Legions]] with one-roll combat resolution and starting from a map
+ 
+ A few sessions of Forbidden Lands. Using Mythic GM 2e and Foundry.
 
 - [[Forbidden Lands Episode 1]]
 - [[Forbidden Lands Episode 2]]
 
-# Random Solo Sessions
-
-- [[Silent Legions - Session 0|Silent Legions]] with one-roll combat resolution and starting from a map
-
-# Cthulhu Eternal Solo
-
-This is a solo AP of Cthulhu Eternal, using Mythic GM 2E
-
-- 2023-08-07 - [[Cthulhu Eternal Solo - Character Overview]]
-- 2023-07-11 - [[cthulhu-eternal-solo/Cthulhu Eternal Solo - Session 0|Cthulhu Eternal Solo - Session 0]] 
- 
 # Lone Scum 
 
 This is my solo AP of Scum & Villainy (then Fate Accelerated). It's mostly abandoned, but I might continue it some day™️. [[session 0 - campaign overview|Start here]]
