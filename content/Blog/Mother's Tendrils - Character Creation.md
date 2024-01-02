@@ -31,7 +31,7 @@ Daniel volunteers at a local hospital as a nurse and started a business teaching
 
 PDF here: <a href="https://filedn.eu/lio1CHFCU3bfQweDG8RxQxY/Daniel.pdf">Daniel.pdf</a>
 
-# Izabella Stewart
+## Izabella Stewart
 
 ![[Mother's Tendrils - Character Creation.png]]
 
@@ -65,5 +65,5 @@ One morning, when she and a colleague are collecting more samples from the lake,
 
 At the end of the investigation, Iza is approached by Daniel ([[#Daniel Osmond]]), who was posing as the local officer, to recruit her into a group dedicated to studying the unnatural: "We could use someone smart."
 
-Her sheet: https://e.pcloud.link/publink/show?code=XZKgG1Z3T1LWEpN2jRJsKMGho9OE43GyFMX
+PDF: https://e.pcloud.link/publink/show?code=XZKgG1Z3T1LWEpN2jRJsKMGho9OE43GyFMX
 
