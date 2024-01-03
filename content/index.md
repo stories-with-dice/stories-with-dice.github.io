@@ -11,11 +11,16 @@ This is [[#About me|my]] blog, on RPGs, writing, and other creative topics. You 
 
 ‣ *Subscribe to the feed [here](index.xml)*
 
-# Blog posts
+# January 2024 Character Creation Challenge
+
+The `#CharacterCreationChallenge` will be starting on January 1, 2024 with the goal to create 31 new RPG characters in 31 days. 
 
 - [[January 2024 Character Creation Challenge#03 - Michelle Wilson]]
 - [[January 2024 Character Creation Challenge#02 - Izabella Stewart]]
 - [[January 2024 Character Creation Challenge#01 - Daniel Osmond]]
+
+# Blog posts
+
 - [[Romanian Mythos]]
 - [[Mansion23]]
 - [[Obsidian Random Tables - Worlds without Number]]
@@ -28,7 +33,7 @@ This is [[#About me|my]] blog, on RPGs, writing, and other creative topics. You 
 
 - [[Silent Legions - Session 0|Silent Legions]] with one-roll combat resolution and starting from a map
  
- A few sessions of Forbidden Lands. Using Mythic GM 2e and Foundry.
+A few sessions of Forbidden Lands. Using Mythic GM 2e and Foundry.
 
 - [[Forbidden Lands Episode 1]]
 - [[Forbidden Lands Episode 2]]
@@ -43,8 +48,8 @@ I am Christopher Dimitrios. I am originally from Eastern Europe but now live in 
 
 ## Published works
 
-- I have published two modules for Call of Cthulhu, via the Miskatonic Repository, both set in Romania during the troubled 90s: [here](https://www.drivethrurpg.com/browse.php?author=Christopher+Dimitrios&affiliate_id=1026766)
-- Currently working on [[blog/Romanian Mythos|Romanian Mythos]] and other things
+- I wrote and published [Romanian Mythos](https://www.drivethrurpg.com/product/454061/Romanian-Mythos--Sourcebook-of-Horrors-for-Lovecraftian-RPGs), a 100-page sourcebook for Mythos horror based on Romanian history
+- I also wrote two more modules for Call of Cthulhu, via the Miskatonic Repository, both set in Romania during the troubled 90s: [here](https://www.drivethrurpg.com/browse.php?author=Christopher+Dimitrios&affiliate_id=1026766)
 - I have published playbooks for the Blades in the Dark game, [here](https://chaosbadger.itch.io/).
 
 > [!info]- Contact

@@ -9,7 +9,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    baseUrl: "https://storieswithdice.com/index.xml",
+    baseUrl: "https://www.storieswithdice.com/",
     ignorePatterns: ["private", "templates", ".obsidian", "_scripts"],
     defaultDateType: "created",
     theme: {
