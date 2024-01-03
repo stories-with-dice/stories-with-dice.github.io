@@ -12,7 +12,7 @@ This month I'm participating (or striving to) in the January Character Creation 
 
 > [Cthulhu Eternal - Modern](https://www.drivethrurpg.com/product/384110/Cthulhu-Eternal--Modern-Age-SRD)
 
-![[Mother's Tendrils - Character Creation-1.png]]
+![[daniel.png]]
 
 > Background: (Decrease Control)
 > Event: (PC Positive: Ruin Normal)
@@ -41,7 +41,7 @@ PDF here: <a href="https://filedn.eu/lio1CHFCU3bfQweDG8RxQxY/Daniel.pdf">Daniel.
 
 > [Cthulhu Eternal - Modern](https://www.drivethrurpg.com/product/384110/Cthulhu-Eternal--Modern-Age-SRD)
 
-![[Mother's Tendrils - Character Creation.png]]
+![[iza.png]]
 
 This time I'm going to use the [Mythic Magazine vol 8](https://preview.drivethrurpg.com/en/product/366068/mythic-magazine-volume-8) backstory generator system, rather than randomly roll. Hopefully this gives more cohesion and restricts the scope of my question. 
 
@@ -79,7 +79,7 @@ PDF: https://e.pcloud.link/publink/show?code=XZKgG1Z3T1LWEpN2jRJsKMGho9OE43GyFMX
 
 > [Cthulhu Eternal](https://www.drivethrurpg.com/product/384110/Cthulhu-Eternal--Modern-Age-SRD)
 
-![[January 2024 Character Creation Challenge.png]]
+![[michelle.png]]
 
 For this character I already have an overall concept. She's a new age occultist that works in marketing and interior design. She combines day-dreaming about achieving Jungian Individuation with ruthless business acumen. 
 
