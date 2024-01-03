@@ -13,8 +13,9 @@ This is [[#About me|my]] blog, on RPGs, writing, and other creative topics. You 
 
 # Blog posts
 
-- [[Mother's Tendrils - Character Creation#Izabella Stewart|January Character Challenge 02 - Izabella Stewart]]
-- [[Mother's Tendrils - Character Creation#Daniel Osmond|January Character Challenge 01 - Daniel Osmond]]
+- [[January 2024 Character Creation Challenge#03 - Michelle Wilson]]
+- [[January 2024 Character Creation Challenge#02 - Izabella Stewart]]
+- [[January 2024 Character Creation Challenge#01 - Daniel Osmond]]
 - [[Romanian Mythos]]
 - [[Mansion23]]
 - [[Obsidian Random Tables - Worlds without Number]]

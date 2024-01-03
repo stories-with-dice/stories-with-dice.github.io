@@ -1,10 +1,16 @@
-The purpose of this is to playtest my work-in-progress module for Call of Cthulhu, working title "Mother's Tendrils".
+New year, new characters! 
 
-# Characters
+This month I'm participating (or striving to) in the January Character Creation Challenge (thread [here](https://forum.rpg.net/index.php?threads/january-2024-character-creation-challenge.915220/)). I'll store the characters in this page. I'll use different systems and methods, that I'll decide on the fly.
 
-Step 1 is to create characters. I am using the Cthulhu Eternal system. I roll for inspiration on  Mythic GM tables, then do the actual system-based choices.
+> [!info] Pre-gens for a playtest
+> I'll be using two of these characters to playtest my work-in-progress module for Call of Cthulhu, working title "Mother's Tendrils".
 
-## Daniel Osmond
+> [!info] General Process
+> I first roll for inspiration on Mythic GM tables, then do the actual system-based choices.
+
+## 01 - Daniel Osmond
+
+> [Cthulhu Eternal - Modern](https://www.drivethrurpg.com/product/384110/Cthulhu-Eternal--Modern-Age-SRD)
 
 ![[Mother's Tendrils - Character Creation-1.png]]
 
@@ -31,7 +37,9 @@ Daniel volunteers at a local hospital as a nurse and started a business teaching
 
 PDF here: <a href="https://filedn.eu/lio1CHFCU3bfQweDG8RxQxY/Daniel.pdf">Daniel.pdf</a>
 
-## Izabella Stewart
+## 02 - Izabella Stewart
+
+> [Cthulhu Eternal - Modern](https://www.drivethrurpg.com/product/384110/Cthulhu-Eternal--Modern-Age-SRD)
 
 ![[Mother's Tendrils - Character Creation.png]]
 
@@ -67,3 +75,30 @@ At the end of the investigation, Iza is approached by Daniel ([[#Daniel Osmond]]
 
 PDF: https://e.pcloud.link/publink/show?code=XZKgG1Z3T1LWEpN2jRJsKMGho9OE43GyFMX
 
+## 03 - Michelle Wilson
+
+> [Cthulhu Eternal](https://www.drivethrurpg.com/product/384110/Cthulhu-Eternal--Modern-Age-SRD)
+
+![[January 2024 Character Creation Challenge.png]]
+
+For this character I already have an overall concept. She's a new age occultist that works in marketing and interior design. She combines day-dreaming about achieving Jungian Individuation with ruthless business acumen. 
+
+I use the Lifepath Generator system from [here](https://groov-games.itch.io/lifepath-generator) and a bunch of other random tables (mostly from [Play by the Writing](https://jeansenvaars.itch.io/play-by-the-writing))
+
+> [!info] Formatting
+> - Content in `this format` is generated from random tables.
+> - Content in between (parentheses) is my commentary on results.
+
+- 1) In the beginning... `1d6: [2] = 2 -> 2 Your family was poor or low-caste. `
+	- Michelle grew up in a poor family on ... `Isolated, aside, lonely, empty, distant` ... an island off the Florida coast. Her family was farmers, struggling to feed and raise their children. The struggle taught her resilience and persistence. She also developed a love of book, which were the only avenue for her to experience the larger world.
+- 2) `1d6: [5] = 5 -> Trait Event -> 1d6: [2] = 2 -> 1d3: [1] = 1 -> Light Trait -> 1d6: [1] = 1 -> Kind. -> 1d6: [4] = 4 -> "They didn't take you seriously"` 
+	- In high school and college, because of her poor background, Michelle felt misunderstood. However, she responded with kindness, understanding that her path is different from others. 
+- 3) `1d6: [3] = 3 -> Focus event -> 1d6: [2] = 2 -> War -> 1d6: [2] = 2 -> You make a risky gambit` (I don't want to make this another soldier, so I'm going to interpret this more figuratively)
+	- After graduating with a degree in Communications and Literature, Michelle found herself in the cutthroat world of marketing and publishing. She moved to New York, because that's where all the publishing business. 
+- 4) `1d6: [3] = 3 -> Focus Event -> 1d6: [5] = 5 -> Survival -> 1d6: [2] = 2 -> Everything breaks down` (Again, I will interpret this quite figuratively)
+	- Struggling in a world that feels alien and overwhelming, Michelle returns to her old comfort: reading. She discovers self-help books and, through that, the rabbit hole of new age mysticism: meditation, yoga, Feng Shui, remote viewing. 
+	- She quits her job at a top level publishing firm and travels the world. She studies with strange mystics, experiments with magical rituals. When she returns to New York, she has remade her self. Her new brand focuses on design and marketing influenced by new age concepts. 
+- 5) `1d6: [1] = 1 -> Locale Event -> 1d6: [4] = 4 -> Ruin -> 1d6: [3] = 3 -> You find an old treasure` (wow, that's quite a twist! What sort of treasure?) `Life Change -- Vibrating, moving, shaking, unstable ` 
+	- Invited to give a workshop in upstate New York, she takes the time to hike on her own. In the old forests, she uncovers a curious plant. Having studied plants as part of various courses in alchemy, Michelle realizes this plant shouldn't be growing in the mountains of Northern America. This is a plant rumored to have magical properties! She takes it home with her. After consulting various alchemical tomes, she brews a tea out of it and, in a ~~leap~~ gulp of faith, drinks it. She passes out and has wonderful vivid dreams. In the dreams, she is initially scolded by all the people that had judged her in her life. Eventually, she meets an elderly woman that looks much like herself. She is covered in greenery and flowers. Michelle takes her by the hand and together they meld into a green peaceful light. To this day, Michelle doesn't know what that dream meant, and she intends to find out.
+
+PDF sheet here: https://e.pcloud.link/publink/show?code=XZTKi1Z5PKhdbp1aCuXFY6Kja13BzKFD9TV
