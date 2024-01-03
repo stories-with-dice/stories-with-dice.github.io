@@ -1,15 +1,13 @@
 ---
-title: Welcome
+title: Hey! I'm Chris and this is my blog
 date: 2023-04-17
 ---
 
-![](https://i.imgur.com/Wi8Ku44.png)
+I blog about role-playing games, creative writing, and other fanciful topics. You'll find blog posts, solo RPG actual play journals, and other miscellany.
 
-# Hello!
+‣ *RSS feed [here](index.xml)*
 
-This is [[#About me|my]] blog, on RPGs, writing, and other creative topics. You can find blog posts, solo RPG actual play journals, and other miscellany.
-
-‣ *Subscribe to the feed [here](index.xml)*
+‣ *[[#About me]]*
 
 # January 2024 Character Creation Challenge
 
@@ -28,6 +26,12 @@ The `#CharacterCreationChallenge` will be starting on January 1, 2024 with the g
 - [[Cthulhu Eternal - Custom Rules for Motivations]]
 - [[My hack OSR System]]
 - [[OSR Usage Die]]
+
+# Lore24
+
+> Another challenge I (over-ambitiously) want to partake in.
+
+TODO...
 
 # Random Solo Sessions
 
@@ -48,7 +52,7 @@ I am Christopher Dimitrios. I am originally from Eastern Europe but now live in 
 
 ## Published works
 
-- I wrote and published [Romanian Mythos](https://www.drivethrurpg.com/product/454061/Romanian-Mythos--Sourcebook-of-Horrors-for-Lovecraftian-RPGs), a 100-page sourcebook for Mythos horror based on Romanian history
+- I wrote and published [Romanian Mythos](https://www.drivethrurpg.com/product/454061/Romanian-Mythos--Sourcebook-of-Horrors-for-Lovecraftian-RPGs?affiliate_id=1026766), a 100-page sourcebook for Mythos horror based on Romanian history
 - I also wrote two more modules for Call of Cthulhu, via the Miskatonic Repository, both set in Romania during the troubled 90s: [here](https://www.drivethrurpg.com/browse.php?author=Christopher+Dimitrios&affiliate_id=1026766)
 - I have published playbooks for the Blades in the Dark game, [here](https://chaosbadger.itch.io/).
 

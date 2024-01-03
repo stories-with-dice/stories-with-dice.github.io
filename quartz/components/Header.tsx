@@ -1,7 +1,7 @@
 import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
 function Header({ children }: QuartzComponentProps) {
-  return children.length > 0 ? <header>{children}</header> : null
+  return <header><img src="https://i.imgur.com/Wi8Ku44.png"></img></header>;
 }
 
 Header.css = `

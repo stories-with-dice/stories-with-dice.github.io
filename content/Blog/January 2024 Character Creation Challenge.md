@@ -1,6 +1,10 @@
+---
+date: 2024-01-03
+---
+
 New year, new characters! 
 
-This month I'm participating (or striving to) in the January Character Creation Challenge (thread [here](https://forum.rpg.net/index.php?threads/january-2024-character-creation-challenge.915220/)). I'll store the characters in this page. I'll use different systems and methods, that I'll decide on the fly.
+This month I'm participating (or striving to) in the January Character Creation Challenge (thread [here](https://forum.rpg.net/index.php?threads/january-2024-character-creation-challenge.915220/)). I'll store the characters in this page. I'll use different systems and methods, that I'll pick on the fly.
 
 > [!info] Pre-gens for a playtest
 > I'll be using two of these characters to playtest my work-in-progress module for Call of Cthulhu, working title "Mother's Tendrils".
