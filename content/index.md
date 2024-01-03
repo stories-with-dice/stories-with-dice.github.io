@@ -31,7 +31,7 @@ The `#CharacterCreationChallenge` will be starting on January 1, 2024 with the g
 
 > Another challenge I (over-ambitiously) want to partake in.
 
-TODO...
+- [[Lore24]]
 
 # Random Solo Sessions
 
