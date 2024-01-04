@@ -9,9 +9,18 @@ I blog about role-playing games, creative writing, and other fanciful topics. Yo
 
 ‣ *[[#About me]]*
 
+# Lore24
+
+Another challenge I (over-ambitiously) want to partake in.
+
+- [[Lore24#004 - January 04]]
+- [[Lore24#003 - January 03]]
+- [[Lore24#002 - January 02]]
+- [[Lore24#001 - January 01]]
+
 # January 2024 Character Creation Challenge
 
-The `#CharacterCreationChallenge` will be starting on January 1, 2024 with the goal to create 31 new RPG characters in 31 days. 
+The `#CharacterCreationChallenge` started on January 1, 2024 with the goal to create 31 new RPG characters in 31 days. 
 
 - [[January 2024 Character Creation Challenge#03 - Michelle Wilson]]
 - [[January 2024 Character Creation Challenge#02 - Izabella Stewart]]
@@ -27,11 +36,6 @@ The `#CharacterCreationChallenge` will be starting on January 1, 2024 with the g
 - [[My hack OSR System]]
 - [[OSR Usage Die]]
 
-# Lore24
-
-> Another challenge I (over-ambitiously) want to partake in.
-
-- [[Lore24]]
 
 # Random Solo Sessions
 
