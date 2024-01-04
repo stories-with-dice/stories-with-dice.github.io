@@ -121,6 +121,14 @@ Sympathy. Today, due to the climate movement, the group has been able to attract
 
 Talent and crafts. The cult has always attracted those in touch with their artistic and creative side. The dawn of industrialization brought on the Romantic movement as a diametric opposite. Poets, novelists, painters are all obsessed with nature and its power. The cult uses these gifted individuals as channelers of Mother's wishes. Additionally, they use the goods the create as an additional source of income.
 
+# 005 - January 05
+
+Concept: *The City and the Void*
+
+![](https://i.imgur.com/Vd5rOAw.jpg)
+
+> Image by Khashayar Kouchpeydeh on Unsplash.
+
 [^1]: Separate goal: come up with new verb for writing lore. Should be fun, for the kids. 
 
 [^2]: Assume Call of Cthulhu / Delta Green / Cthulhu Eternal. 

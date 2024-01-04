@@ -7,7 +7,8 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "google",
+      tagId: "G-7V5BP3S39B"
     },
     baseUrl: "https://www.storieswithdice.com/",
     ignorePatterns: ["private", "templates", ".obsidian", "_scripts"],
