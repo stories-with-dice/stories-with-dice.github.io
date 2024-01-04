@@ -5,7 +5,7 @@ https://itch.io/jam/lore24-game-jam
 https://forums.hexed.press/t/lore24-megathread/664/5
 https://hexedpress.itch.io/lore24-helper
 
-This one is called `#Lore24` and it's all about that sweet, sweet L O R E . It's simple: each day, every day, for all of 2024's 336 days, you write a paragraph or two (or a novel) of lore about your world. Get lore-ing! [[Lore24#^4rlghq|(1)]]
+This one is called `#Lore24` and it's all about that sweet, sweet L O R E . It's simple: each day, every day, for all of 2024's 336 days, you write a paragraph or two (or a novel) of lore about your world. Get lore-ing! [^1]
 
 Now excuse, have some catching up to do!
 
@@ -15,9 +15,9 @@ Now excuse, have some catching up to do!
 
 # 002 - January 02
 
-So what is this? I am trying to brainstorm setting ideas for a modern horror world. I'll be mixing ideas from Lovecraftian horror, conspiracies, the occult, weirdness, and whatever I feel like throwing into this cursed soup. For structure? Not sure. Maybe I'll use Silent Legions to create a sandbox of sorts, for investigate horror. Or I might brainstorm more elements for my Romanian Mythos sourcebook. Or wild ideas for one of my many work-in-progress modules. Or just pretentious prose.
+So what is this? I am trying to brainstorm setting ideas for a modern horror world. I'll be mixing ideas from Lovecraftian horror, conspiracies, the occult, weirdness, and whatever I feel like throwing into this cursed soup. For structure? Not sure. Maybe I'll use Silent Legions to create a sandbox of sorts, for investigate horror. Or I might brainstorm more elements for my Romanian Mythos sourcebook. Or wild ideas for one of my many work-in-progress modules. Or just pretentious flash fiction.
 
-For today, a turning point based on Adventure Crafter:
+For today, some flash fiction using the [Mythic Adventure Crafter](https://www.drivethrurpg.com/product/261479/The-Adventure-Crafter?affiliate_id=1026766):
 
 > [!info]- Rolls
 > 
@@ -73,7 +73,13 @@ For today, a turning point based on Adventure Crafter:
 
 *You look at your phone. The screen is broken. In the crack, you see yourself: magnetic, perfect teeth. Marco stares back at you. From the woods ahead, you hear a voice:*
 
-*"Here", Samantha says.*
+*"Follow me", Samantha says.*
+
+What was this? Guess I'll try to figure it out tomorrow.
+
+# 003 - January 03
+
+Today I'll try to write the mechanics for the nightclub in my short fiction from yesterday.
 
 > A Moveable Feast.
 
@@ -81,7 +87,7 @@ The Gremlin club is an unnatural manifestation. It appears across urban spaces, 
 
 People that are part of its respective audience subculture always know about it. They insist on taking people that aren't in the know. 
 
-In there, a player character (PC) is faced with a mirror image of themselves in the form they dream they can be. The interaction seems off and may inflict SAN damage [[Lore24#^caq5z2|(2)]].
+In there, a player character (PC) is faced with a mirror image of themselves in the form they dream they can be. The interaction seems off and may inflict SAN damage [^2].
 
 If the PC continues interacting with the manifestation, they are inevitable seduced by another manifestation: a close connection they lost. 
 
@@ -89,12 +95,25 @@ The two manifestations pursue the PC throughout the night, pushing for more reck
 
 Inevitably, they suffer an accident. When the PC suffers any harm, their body is swapped with the body of the one they coveted. The connection they lost in the past is nearby.
 
-# 003 - January 03
+# 004 - January 04
 
-TODO
+Today, a faction based on random table rolls.
+
+> [!info]- Rolls
+> 
+> I'm using [Play by the Writing](https://jeansenvaars.itch.io/play-by-the-writing) as my main random table roller.
+> 
+> - Preservation: Protect or restore endangered, ancient, or sacred value
+> - Religion: Strong, devout, or charismatic faith to motivate, heal, or convert others
+
+This is a sect dedicated to the preservation of the forest that I'm going to use in a work-in-progress Call of Cthulhu module.
+
+Origins: Ever since the forest could scream from the fires of man, the committed heard and rallied to protect her precious green. With the dawn of industrialization the scream grew deafening for the Mother's [^3] chosen
+
+
 
 ---
 
-Separate goal: come up with new verb for writing lore. Should be fun, for the kids. ^4rlghq
+[^1]: Separate goal: come up with new verb for writing lore. Should be fun, for the kids. 
 
-Assume Call of Cthulhu / Delta Green / Cthulhu Eternal. ^caq5z2
+[^2]: Assume Call of Cthulhu / Delta Green / Cthulhu Eternal. 
