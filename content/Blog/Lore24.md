@@ -8,15 +8,17 @@ Relevant links:
 - https://forums.hexed.press/t/lore24-megathread/664/5
 - https://hexedpress.itch.io/lore24-helper
 
-Now excuse, I have some catching up to do!
+Now excuse me, I have some catching up to do!
 
 # 001 - January 01
+
+Some moody flash fiction.
 
 *The world is ours: it spins, it flies around the Sun, it stinks, it's filled of people. The people ferment and fornicate, pile up on the interstate, and stare at the dark at night. In that dark, out in the cold void, something other than human lurks. It knows of you, but cares little of our Coke Zero and high-speed Internet marvels. This Other has been here long before we took our turn on the merry-go-round. Its deals and concerns are above our fast fashion brains. Yet, "As Above, So Below" applies to It too. The resonances of our minds and hearts tug and pull at the grand cog of the Cosmos and the Other. We are connected, despite our unceasing desire for atomization and isolation. When we yearn, when we scream, when we reach out with our minds for the edges of what **can** be known, the Other waits. What does it want of us? What does it offer for our service? The excitement of not knowing, of finding out with every new dark pact, is what makes the merry-go-round worth the hassle for those freaks who dare to prod. Outside the city, in the clear night sky, you stand and stare out at the void. You hope it stares back for you have things to ask.*
 
 # 002 - January 02
 
-So what is this? I am trying to brainstorm setting ideas for a modern horror world. I'll be mixing ideas from Lovecraftian horror, conspiracies, the occult, weirdness, and whatever I feel like throwing into this cursed soup. For structure? Not sure. Maybe I'll use Silent Legions to create a sandbox of sorts, for investigate horror. Or I might brainstorm more elements for my Romanian Mythos sourcebook. Or wild ideas for one of my many work-in-progress modules. Or just pretentious flash fiction.
+So what is this? I am trying to brainstorm setting ideas for a modern horror world. I'll be mixing ideas from Lovecraftian horror, conspiracies, the occult, weirdness, and whatever I feel like throwing into this cursed soup. For structure? Not sure. Maybe I'll use Silent Legions to create a sandbox of sorts, for investigative horror. Or I might brainstorm more elements for my Romanian Mythos sourcebook. Or wild ideas for one of my many work-in-progress modules. Or just pretentious flash fiction.
 
 For today, some flash fiction using the [Mythic Adventure Crafter](https://www.drivethrurpg.com/product/261479/The-Adventure-Crafter?affiliate_id=1026766):
 
