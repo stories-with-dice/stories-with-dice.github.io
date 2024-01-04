@@ -127,9 +127,10 @@ Talent and crafts. The cult has always attracted those in touch with their artis
 
 Concept: *The City and the Void*
 
-![](https://i.imgur.com/Vd5rOAw.jpg)
+![](https://i.imgur.com/YGP0qOc.png)
 
-> Image by Khashayar Kouchpeydeh on Unsplash.
+> [!info]- Image
+> Original image by Khashayar Kouchpeydeh on Unsplash.
 
 [^1]: Separate goal: come up with new verb for writing lore. Should be fun, for the kids. 
 
