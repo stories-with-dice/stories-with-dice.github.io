@@ -106,3 +106,31 @@ I use the Lifepath Generator system from [here](https://groov-games.itch.io/life
 	- Invited to give a workshop in upstate New York, she takes the time to hike on her own. In the old forests, she uncovers a curious plant. Having studied plants as part of various courses in alchemy, Michelle realizes this plant shouldn't be growing in the mountains of Northern America. This is a plant rumored to have magical properties! She takes it home with her. After consulting various alchemical tomes, she brews a tea out of it and, in a ~~leap~~ gulp of faith, drinks it. She passes out and has wonderful vivid dreams. In the dreams, she is initially scolded by all the people that had judged her in her life. Eventually, she meets an elderly woman that looks much like herself. She is covered in greenery and flowers. Michelle takes her by the hand and together they meld into a green peaceful light. To this day, Michelle doesn't know what that dream meant, and she intends to find out.
 
 PDF sheet here: https://e.pcloud.link/publink/show?code=XZTKi1Z5PKhdbp1aCuXFY6Kja13BzKFD9TV
+
+# 04 - Roger Schulte
+
+> [Cthulhu Eternal](https://www.drivethrurpg.com/product/384110/Cthulhu-Eternal--Modern-Age-SRD)
+
+![[roger.png]]
+
+This is the final pregen I'll create as part of my wip module.
+
+This time I'll create based on what's could complement the other three. Looking at the list of Archetypes in the book, I think that's "Criminal." So that will be the focus. But again, I will use the Lifepath Generator from [here](https://groov-games.itch.io/lifepath-generator) and a bunch of other random tables (mostly from [Play by the Writing](https://jeansenvaars.itch.io/play-by-the-writing)).
+
+> [!info] Formatting
+> - Content in `this format` is generated from random tables.
+> - Content in between (parentheses) is my commentary on results.
+
+I'll make a few rolls until I get a clear enough idea.
+
+- 1) In the beginning... `1d6: [6] = 6 -> 6 Your family was wealthy or influential. `
+	- Roger grew up in ... `Knowledge, literature, intel, data, information` ... a family of academics, in `Chicago, Illinois`. 
+- 2) `1d6: [2] = 2 -> Themed Event -> 1d6: [2] = 2 -> Dark -> 1d6: [6] = 6 -> You almost don't come back.`
+	- `Background problems: Safety: High crime, violence, murders, gangs, mobs, anarchy, there is no law - Plot hook: Conflict reached a peak tension state.`
+	- Even though Roger grew up in an affluent family, he decided to move on his own during his studies and early career. However, the neighborhood where he lived was dangerous, racked with petty gangs and drug dealers. One night, he is carjacked on his drive home by a member on the run from his gang. They are eventually caught. The gang member is killed in front of Roger. As they gang member raises his gun, Roger begs for his life and offers to help them in any way he can. The gangsters "hire" Roger to do odd jobs for them (drug mule, money laundering through his business as a `lawyer`)
+- 3) `1d6: [3] = 3 -> Focus Event -> 1d6: [5] = 5 -> Survival -> :1d6: [3] = 3 -> You try to get away`
+	- Roger sees no end in sight for his work with the gang. He eventually decides to change his name and flee across the country. 
+- 4) `1d6: [2] = 2 -> Themed Event -> :1d6: [3] = 3 -> Sad -> 1d6: [4] = 4 -> You lose your chance`
+	- He moves to New Mexico but he is tracked down by another branch of the gang. They threaten his family and force him to continue laundering his money. 
+- 5) `1d6: [5] = 5 -> Trait Event -> 1d3: [2] = 2 -> Neutral Trait -> 1d6: [2] = 2 -> Clever -> 1d6: [1] = 1 -> You connect the dots`
+	- Eventually, Roger realizes that with all the skills he's built up, he can begin to offer his services of laundering money to other criminal gangs. Eventually his enterprise grows. (I will develop his )

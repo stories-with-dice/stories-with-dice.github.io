@@ -23,6 +23,7 @@ Another challenge I (over-ambitiously) want to partake in.
 
 The `#CharacterCreationChallenge` started on January 1, 2024 with the goal to create 31 new RPG characters in 31 days. 
 
+- [[January 2024 Character Creation Challenge#04 - Roger Schulte]]
 - [[January 2024 Character Creation Challenge#03 - Michelle Wilson]]
 - [[January 2024 Character Creation Challenge#02 - Izabella Stewart]]
 - [[January 2024 Character Creation Challenge#01 - Daniel Osmond]]
