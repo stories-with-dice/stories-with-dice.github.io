@@ -12,7 +12,7 @@ This month I'm participating (or striving to) in the January Character Creation 
 > [!info] General Process
 > I first roll for inspiration on Mythic GM tables, then do the actual system-based choices.
 
-## 01 - Daniel Osmond
+# 01 - Daniel Osmond
 
 > [Cthulhu Eternal - Modern](https://www.drivethrurpg.com/product/384110/Cthulhu-Eternal--Modern-Age-SRD)
 
@@ -41,7 +41,7 @@ Daniel volunteers at a local hospital as a nurse and started a business teaching
 
 PDF here: <a href="https://filedn.eu/lio1CHFCU3bfQweDG8RxQxY/Daniel.pdf">Daniel.pdf</a>
 
-## 02 - Izabella Stewart
+# 02 - Izabella Stewart
 
 > [Cthulhu Eternal - Modern](https://www.drivethrurpg.com/product/384110/Cthulhu-Eternal--Modern-Age-SRD)
 
@@ -79,7 +79,7 @@ At the end of the investigation, Iza is approached by Daniel ([[#Daniel Osmond]]
 
 PDF: https://e.pcloud.link/publink/show?code=XZKgG1Z3T1LWEpN2jRJsKMGho9OE43GyFMX
 
-## 03 - Michelle Wilson
+# 03 - Michelle Wilson
 
 > [Cthulhu Eternal](https://www.drivethrurpg.com/product/384110/Cthulhu-Eternal--Modern-Age-SRD)
 
