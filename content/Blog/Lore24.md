@@ -143,7 +143,7 @@ Which city? Any city, really. I can't commit to one city. These strands of lore 
 
 # 006 - January 06
 
-Faction - White collar crime cult
+Faction - White collar crime cult (inspired by [[January 2024 Character Creation Challenge#04 - Roger Schulte|Roger's lifepath]]).
 
 *Coming soon...*
 
