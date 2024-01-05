@@ -13,6 +13,7 @@ I blog about role-playing games, creative writing, and other fanciful topics. Yo
 
 Another challenge I (over-ambitiously) want to partake in.
 
+- [[Lore24#005 - January 05]]
 - [[Lore24#004 - January 04]]
 - [[Lore24#003 - January 03]]
 - [[Lore24#002 - January 02]]
