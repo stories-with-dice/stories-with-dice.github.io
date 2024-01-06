@@ -86,6 +86,14 @@ Your character grew up in a multilingual home or lived abroad for a long time.
 
 **Disadvantage:** Your character receives 20 skill points less.
 
+## Alternative Language Rules
+
+I don't like having separate languages as skills. Instead, I'm going to go the D&D route. 
+
+There is only one language skill. For every 20% points assigned, you can pick another language. You can speak, read, write at an "adequate" level. If the language is "exotic" (Akkadian, Coptic, Egyptian etc.), you need to make an INT check (remember INT?) every time you use it. 
+
+Of course, you know your native language without needing to put any points in Language.
+
 # Luck
 
 Your character has more luck than sense. Maybe he is still very young or he has relied on luck his whole life and therefore hasn't achieved much.
