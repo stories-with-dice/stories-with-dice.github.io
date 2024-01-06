@@ -30,6 +30,7 @@ The `#CharacterCreationChallenge` started on January 1, 2024 with the goal to cr
 
 # Blog posts
 
+- [[Cthulhu Eternal - Experience Packages]]
 - [[Romanian Mythos]]
 - [[Mansion23]]
 - [[Obsidian Random Tables - Worlds without Number]]

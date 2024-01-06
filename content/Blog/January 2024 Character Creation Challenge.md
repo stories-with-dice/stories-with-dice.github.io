@@ -131,7 +131,7 @@ I'll make a few rolls until I get a clear enough idea.
 - 3) `1d6: [3] = 3 -> Focus Event -> 1d6: [5] = 5 -> Survival -> :1d6: [3] = 3 -> You try to get away`
 	- Roger sees no end in sight for his work with the gang. He eventually decides to change his name and flee across the country. 
 - 4) `1d6: [2] = 2 -> Themed Event -> :1d6: [3] = 3 -> Sad -> 1d6: [4] = 4 -> You lose your chance`
-	- He moves to New Mexico but he is tracked down by another branch of the gang. They threaten his family and force him to continue laundering his money. 
+	- He moves to `Louisiana` but he is tracked down by another branch of the gang. They threaten his family and force him to continue laundering his money. 
 - 5) `1d6: [5] = 5 -> Trait Event -> 1d3: [2] = 2 -> Neutral Trait -> 1d6: [2] = 2 -> Clever -> 1d6: [1] = 1 -> You connect the dots`
 	- Eventually, Roger realizes that with all the skills he's built up, he can begin to offer his services of laundering money to other criminal gangs. Eventually his enterprise grows. (I will develop his in my next [[Lore24#006 - January 06|Lore24]] entry)
 - 6) `1d6: [2] = 2 -> Themed Event -> 1d6: [2] = 2 -> Dark -> 1d6: [3] = 3 -> You just can't stop`
