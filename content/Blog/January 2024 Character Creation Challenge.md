@@ -139,3 +139,87 @@ I'll make a few rolls until I get a clear enough idea.
 
 His PDF: https://e.pcloud.link/publink/show?code=XZ6gyeZd7fxVxluFlhb2VY2uCMI5R9liwqy
 
+# 05 - Cedric Moreau
+
+> [KULT: Divinity Lost](https://www.drivethrurpg.com/product/259252/Kult-Divinity-Lost--4th-Edition-of-Kult-Core-Rules&affiliate_id=1026766)
+
+Up next I'm going to create some KULT: Divinity Lost characters. I have the book and skimmed it, but never got around to play it past a one-shot. I dig its character archetypes and Dark Secrets approach, so I'm excited to dig in.
+
+There are 20 Aware archetypes, so I'm going to roll a d20 to determine what I'm going to build first: `1d20: [7] = 7 -> Criminal` (hm should I just make another Roger Schulte? Nah, I'm going to make one of the gang members he works with.)
+
+![](https://i.imgur.com/LyHfOoY.png)
+
+> [!info]- Image
+> Image from KULT: Divinity Lost core rulebook. No copyright infringement intended, reproducing as reference.
+
+**Occupation:** Corrupt cop. 
+
+(I like the trope of corrupt cops. It has legs. It's the sort of character that has access  to two *interesting* worlds: crime and law enforcement)
+
+> [!info]- Occupation book instructions
+> 
+Choose your Criminal’s occupation from the list below, or invent 
+one of your choosing. 
+*Thief, Robber, Dealer, Gang member, Homeless, Prize fighter*, 
+*Corrupt cop, Enforcer, Club owner, Extortionist, Hitman, Face* 
+*of the operation, Getaway driver, Con artist, Mobster, Dealer*, 
+*Muscle for hire*.
+
+Let's give him a backstory before making other choices.
+
+I'm going to use [Adventure Crafter](https://www.drivethrurpg.com/product/261479/The-Adventure-Crafter&affiliate_id=1026766) to generate a quick backstory:
+
+> [!info]- Rolls
+> 
+> Turning point:
+> - ESCAPE    _(ACTION)_
+>     - This Turning Point involves an escape of some sort. For instance, a Character who was captured by brigands in an earlier Turning Point manages to slip away from his captors and escape into the forest.
+> - ~~CONCLUSION~~    _(MYSTERY)_ -- ignored
+>     - If this Turning Point is currently a Plotline Development, then it becomes a Plotline Conclusion. Incorporate anything necessary into this Turning Point to end this Plotline and remove it from the Plotlines List. If this Turning Point is a New Plotline or already a Conclusion, then consider this Plot Point a None.
+> - A COMMON SOCIAL GATHERING    _(SOCIAL)_
+>     - This Turning Point involves a social gathering. This can be any gathering of people, generally for a common purpose, such as gathering for dinner at a home or restaurant, or an afternoon at a mall. The social gathering itself should be considered of a mundane nature, although what else transpires at the gathering doesn’t necessarily have to be.
+> - PRIZED POSSESSION    _(PERSONAL)_
+>     - Whatever is happening in this Turning Point, it involves an important possession of a Character. For instance, if the Turning Point is about something being stolen, maybe a sorcerer’s magic staff is taken.
+> - NONE
+> 
+> 
+> 
+
+Cedric Moreau was about to get caught by his more upstanding colleagues when he was selling cocaine to some party kids in New Orleans' French Quarter's seedier bars. He think he's been spotted so his paranoia is at a peak. He thinks his colleagues are onto him, which make him even more of a loner.
+
+At a meeting with the gang he's part of, Cedric is introduced to the prized new drug the dealers are supposed to put on the street, some new cut of crystal meth, supposedly. He's never heard of it. He spends the entire night examining how the others react to it: they bliss out for a good half an hour on what they describe as "the best trip ever". One of them doesn't take it as well and starts screaming. He has to be immobilized and sedated. Cedric decides it's better for him to cut ties with the gang and stick to dealing the coke he steals from the evidence lock-up.
+
+He's stuck between the two sides. He's scared to tell them right up that he wants out, but he also doesn't want to sell the stuff. Still he's coerced into taking half a kilo. It sits in his apartment, unopened, in a bag at the bottom of his closet.
+
+**DARK SECRETS:** ◊ Guilty of Crime -> Personal drive: Punish yourself.
+
+**DISADVANTAGES**: Bad Reputation, Wanted
+
+**ADVANTAGES**: Streetwise, Enforcer, Six Sense
+
+**ATTRIBUTES**: +2 Fortitude, +1 Reflexes, +0 Willpower
+
++0 Charisma, +2 Coolness, +1 Intuition, +3 Perception, -2 Reason, -1 Soul, +1 Violence.
+
+Clothes: worn clothes.
+Face: Hard
+Eyes: calculating, suspicious eyes.
+Body: Muscular, but wiry body.
+
+**RELATIONS**
+
+(TODO once the other KULT characters are done)
+
+◊ One of the characters hid you from the police or others who were after you. Take +1 Relation with them.
+◊ One of the characters knows you’ve committed a terrible crime.
+◊ One of the characters is indebted to you.
+◊ One of the characters is connected to one of your rivals.
+◊ One of the characters knew you from before your criminal dealings. Take +1 Relation with them.
+
+Neutral (0): His daughter, Karen, now in high school
+Meaningful (+1): His wife, Jolene, who doesn't suspect the extent of his deeds, 
+Vital (+2): Marcus, the leader of the gang
+
+---
+
+All links are affiliate links. You don't pay extra, but I get a small percentage on any purchase made via the link.
