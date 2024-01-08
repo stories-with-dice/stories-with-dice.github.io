@@ -8,7 +8,7 @@ Skill point penalties are applied after all other choices are applied (including
 
 # Wealth
 
-Your character is very wealthy and money plays a minor role in his everyday life because he has enough of it. Examples: Business owner. Rich heiress.
+Your character is very wealthy and money is a minor concern in their everyday life because they have enough of it. Examples: Successful business owner, rich heiress.
 
 **Benefit:** All of your character's expenses are treated as one expense category lower than usual.
 
@@ -16,7 +16,7 @@ Your character is very wealthy and money plays a minor role in his everyday life
 
 # Poverty/debt
 
-You are poor as a church mouse, maybe you also have a lot of debt. But as we all know, money alone doesn't make you happy. At least you have solid bonds!
+You are poor as a church mouse, and maybe you also have a lot of debt. But as we all know, money alone doesn't make you happy. At least you have solid bonds!
 
 **Benefit:** Your character gains an additional bond.
 
@@ -24,39 +24,39 @@ You are poor as a church mouse, maybe you also have a lot of debt. But as we all
 
 # Status
 
-Your character is famous or recognized within certain circles. People recognize him when they meet him and have a high opinion of him. For him, this recognition has great personal value. Perhaps they are simply subordinate to the character because he has a higher rank or status. Examples: A musician and her fans. A professor and the scientific community. A noblewoman and her subject. A female officer and her subordinates.
+Your character is famous or recognized within certain circles. People recognize them when they meet them and have a high opinion of them. This recognition has great personal value. Perhaps people are simply subordinate to the character because they has a higher rank or status. Examples: A musician and her fans. A professor and the scientific community. A noblewoman and her subjects. A horror writer and her fans.
 
 **Benefit:** +20% to social checks against admirers and people of lower status.
 
-**Disadvantage:** -20% on social checks to remain undetected. The character must always expect to meet an admirer or subordinate and be recognized.
+**Disadvantage:** -20% on social checks to remain anonymous or when using a false identity. The character always expects to meet a fan or critic and be recognized.
 
 # Experiences of violence
 
-Your character has experienced extreme violence or the consequences thereof over an extended period of time. Be it that he did it himself, became a victim or has something to do with it professionally. Examples: A detective inspector. A soldier.
+Your character has experienced extreme violence or the consequences thereof over an extended period of time. Be it that they did it himself, became a victim or has something to do with it professionally. Examples: A soldier, a street thug.
 
-**Advantage:** Your character is hardened against violence.
+**Advantage:** Your character is hardened against Violence SAN checks.
 
-**Disadvantage:** Your character loses 1D6 CHA.
+**Disadvantage:** Your character loses 1D6 CHA (affecting max Bond scores).
 
 # Experience of helplessness
 
-Your character has been in captivity or isolation for an extended period of time. Examples: An innocently convicted prisoner. A sailor who was thought lost.
+Your character has been in captivity or isolation for an extended period of time. Examples: An innocently convicted prisoner, a sailor who was lost at sea.
 
-**Advantage:** Your character is hardened against helplessness.
+**Advantage:** Your character is hardened against Helplessness SAN checks.
 
-**Disadvantage:** Your character loses 1D6 POW (without affecting starting SAN).
+**Disadvantage:** Your character loses 1D6 POW (affecting starting SAN).
 
 # Understanding
 
-Your character knows the unnatural is real because they have already encountered it. Important: This does not mean an occultist. Your character must not only believe that the supernatural exists, but they must know it.
+Your character knows the unnatural is real because they have already encountered it in some shape or form.
 
 **Benefit:** Increase your character's Unnatural Knowledge by 10%.
 
 **Disadvantage:** Your character loses 5 SAN with all the associated consequences.
 
-# Experience of loss/devotion
+# Obsessive / workaholic 
 
-Your character has suffered a loss. Maybe he worked too much and a relationship ended as a result. Maybe he also lost someone due to a stroke of fate. Alternatively, your character could have lost a bond because they were too committed to one thing. It could be a profession, a faith, a sport, a science, a hobby or even the search for the truth.
+You have spent too much time going down rabbit holes, either through work or personal obsessions, to the point that you've lost touch with your family or close friends.
 
 **Benefit:** Your character receives 50 skill points.
 
@@ -64,7 +64,7 @@ Your character has suffered a loss. Maybe he worked too much and a relationship 
 
 # Crisis experience
 
-Your character has just experienced too many bad things. The crises he experienced made the character more experienced, but also scarred him.
+Your character has just experienced too many bad things. The crises you've endured have made you more self-reliant, but have also left deep scars.
 
 **Advantage:** Your character receives 20 skill points.
 
@@ -86,17 +86,11 @@ Your character grew up in a multilingual home or lived abroad for a long time.
 
 **Disadvantage:** Your character receives 20 skill points less.
 
-## Alternative Language Rules
-
-I don't like having separate languages as skills. Instead, I'm going to go the D&D route. 
-
-There is only one language skill. For every 20% points assigned, you can pick another language. You can speak, read, write at an "adequate" level. If the language is "exotic" (Akkadian, Coptic, Egyptian etc.), you need to make an INT check (remember INT?) every time you use it. 
-
-Of course, you know your native language without needing to put any points in Language.
+> Also, see [[Cthulhu Eternal - Alternative Language Rules]].
 
 # Luck
 
-Your character has more luck than sense. Maybe he is still very young or he has relied on luck his whole life and therefore hasn't achieved much.
+Your character has more luck than sense. Maybe they are still very young or they have relied on luck their whole life and therefore haven't achieved much.
 
 **Advantage:** Your character receives a bonus of +20% on Luck tests.
 
