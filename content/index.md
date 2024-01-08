@@ -9,10 +9,25 @@ I blog about role-playing games, creative writing, and other fanciful topics. Yo
 
 ‣ *[[#About me]]*
 
-# Lore24
+# Blog posts
+
+- [[Cthulhu Eternal - Alternative Language Rules]]
+- [[Cthulhu Eternal - Experience Packages]]
+- [[Romanian Mythos]]
+- [[Mansion23]]
+- [[Obsidian Random Tables - Worlds without Number]]
+- [[Cthulhu Eternal - Alternative Sanity Mechanics]]
+- [[Cthulhu Eternal - Custom Rules for Motivations]]
+- [[My hack OSR System]]
+- [[OSR Usage Die]]
+
+# Lore24 Challenge
 
 The `#Lore24` challenge is to write a bit of background lore about your fictional world every day, each day of 2024. Stick around and see me struggle to fit this into my schedule.
 
+- [[Lore24#008 - January 08]]
+- [[Lore24#007 - January 07]]
+- [[Lore24#006 - January 06]]
 - [[Lore24#005 - January 05]]
 - [[Lore24#004 - January 04]]
 - [[Lore24#003 - January 03]]
@@ -29,20 +44,8 @@ The `#CharacterCreationChallenge` started on January 1, 2024 with the goal to cr
 - [[January 2024 Character Creation Challenge#02 - Izabella Stewart]]
 - [[January 2024 Character Creation Challenge#01 - Daniel Osmond]]
 
-# Blog posts
 
-- [[Cthulhu Eternal - Alternative Language Rules]]
-- [[Cthulhu Eternal - Experience Packages]]
-- [[Romanian Mythos]]
-- [[Mansion23]]
-- [[Obsidian Random Tables - Worlds without Number]]
-- [[Cthulhu Eternal - Alternative Sanity Mechanics]]
-- [[Cthulhu Eternal - Custom Rules for Motivations]]
-- [[My hack OSR System]]
-- [[OSR Usage Die]]
-
-
-# Random Solo Sessions
+# Random Solo RP Sessions
 
 - [[Silent Legions - Session 0|Silent Legions]] with one-roll combat resolution and starting from a map
  
@@ -51,7 +54,7 @@ A few sessions of Forbidden Lands. Using Mythic GM 2e and Foundry.
 - [[Forbidden Lands Episode 1]]
 - [[Forbidden Lands Episode 2]]
 
-# Lone Scum 
+# Lone Scum Solo RP
 
 This is my solo AP of Scum & Villainy (then Fate Accelerated). It's mostly abandoned, but I might continue it some day™️. [[session 0 - campaign overview|Start here]]
 
